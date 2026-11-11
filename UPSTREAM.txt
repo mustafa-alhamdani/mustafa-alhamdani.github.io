@@ -1,0 +1,6 @@
+Upstream: https://github.com/GamerHack/GamerHack.github.io/tree/main/g2all
+Commit: d05d71ff8db282f28cbc61f84c0a9588efacc451
+Downloaded: 2026-11-11
+Runtime directories and GoldHEN binary are unmodified. Local changes: launcher, UI, combined offline manifest, documentation.
+Credits: GamerHack, SiSTRo / GoldHEN, anonymous / PSFree, ChendoChap, Kameleon, Al-Azif, Abc and contributors credited in source files.
+PSFree source files include their original AGPL-3.0-or-later notices.
